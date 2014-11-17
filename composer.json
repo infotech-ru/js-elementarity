@@ -1,0 +1,12 @@
+{
+  "name": "terrasoff/js-elementarity",
+  "description": "Привязываем к элементу другие элементы. При клике элемент выполняем определенные действия с привязанными элементами",
+  "license": "",
+  "authors": [
+    {
+      "name": "Tarasov Konstantin",
+      "email": "terrasoff@terrasoff.ru"
+    }
+  ],
+  "minimum-stability": "dev"
+}
